@@ -25,6 +25,11 @@ body {
   margin: 0;
   padding: 0;
 }
+#googleForm {
+	/*margin-left: auto;
+	margin-right: auto;*/
+  text-align: center;
+}
 
 header a {
   font-family: var(--Snigle-font);
@@ -262,6 +267,7 @@ header .btn {
   background-position: center;
   background: var(--bggradient);
   margin: auto;
+  text-align: center;
 }
 
 .contact {
